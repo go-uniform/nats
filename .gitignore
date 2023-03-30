@@ -1,0 +1,4 @@
+.idea
+service/info/meta.go
+build
+coverage.txt
